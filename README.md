@@ -1,4 +1,3 @@
-- Você irá desenvolver um site que gere cartas misteriosas.
 # Projeto To Do List
 
 ## Contexto
@@ -7,8 +6,8 @@ Trata-se de um site desenvolvido em HTML, CSS e JavaScript, onde é possível ge
 
 ## Técnologias usadas
 
-Front-end:
-> Desenvolvido usando: HTML, CSS, JavaScript
+### Front-end:
+ - Desenvolvido usando: HTML, CSS, JavaScript
 
 ## Executando aplicação
 
